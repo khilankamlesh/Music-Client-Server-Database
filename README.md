@@ -1,7 +1,7 @@
 # Music Client-Server Database
 
 ## Prerequisites ##
-This project was created in SQL and Java using PostgreSQL, with the JDBC driver installed, and JavaFX (SceneBuilder) using IntelliJ IDEA Community Edition in Project SDK version 11.0.2.
+This project was created in SQL using PostgreSQL, with the JDBC driver installed, and Java in Project SDK version 11.0.2 using IntelliJ IDEA Community Edition.
 
 This was the third of three projects as part of the Full Stack Applicaiton Development module at the University of Birmingham, focusing on JDBC and Java Networks/Socket programming as well as SQL using postgreSQL.
 
