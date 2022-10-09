@@ -3,7 +3,7 @@
 ## Prerequisites ##
 This project was created in SQL using PostgreSQL, with the JDBC driver installed, and Java in Project SDK version 11.0.2 using IntelliJ IDEA Community Edition.
 
-This was the third of three projects as part of the Full Stack Applicaiton Development module at the University of Birmingham, focusing on JDBC and Java Networks/Socket programming as well as SQL using postgreSQL.
+This was the third of three projects as part of the Full Stack Application Development module at the University of Birmingham, focusing on JDBC and Java Networks/Socket programming as well as SQL using postgreSQL.
 
 ## Goal ##
 The goals of this project are to:
